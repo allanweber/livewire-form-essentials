@@ -56,6 +56,12 @@ php artisan livewire:layout
 php artisan make:livewire create-post --test
 ```
 
+## Create a livewire form
+
+```bash
+php artisan livewire:form ProfileForm
+```
+
 ### Run the test
 
 ```bash
